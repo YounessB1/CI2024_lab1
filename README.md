@@ -15,3 +15,5 @@ Best perfomring strategy is the greedy one following the results
 | 100_000 | 10_000 | 0.1 | 1_528_829 | 
 | 100_000 | 10_000 | 0.2 |  1_ 720_509  |  
 | 100_000 | 10_000 | 0.3 | 1_761_543 |
+
+solution been reached in collaboration with Luca Bergamini
